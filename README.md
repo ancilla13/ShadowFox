@@ -1,1 +1,1 @@
-This is my basic learnings of the data visualisations in python using Matplotlib and Seaborn also my learning and the report on delhi's Air Quality Index analysis.
+This repository presents my foundational learnings in data visualization using Python, specifically with Matplotlib and Seaborn. Additionally, it includes my analysis and report on Delhi's Air Quality Index (AQI), offering insights into pollution trends and environmental data representation.
